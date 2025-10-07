@@ -1,0 +1,20 @@
+{
+  "name": "tran_yvonne_unit_testing_assignment",
+  "version": "1.0.0",
+  "description": "NodeJS TDD Testing Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "NodeJS",
+    "Jest",
+    "Testing",
+    "TDD"
+  ],
+  "author": "Yvonne Tran",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
